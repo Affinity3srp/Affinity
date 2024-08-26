@@ -1,6 +1,6 @@
-Sure! Here's the updated `README.md` that reflects the folder names from the image:
 
-```markdown
+
+
 # Affinity Website
 
 Affinity is a platform designed for people to connect with others of similar intellectual levels. This repository contains the full stack of the project, including the frontend, backend, AI chat server, real chat server, Rust server, machine learning model for AI chat, and socket implementations for real-time communication and WebRTC.

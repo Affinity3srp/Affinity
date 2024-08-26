@@ -5,6 +5,8 @@
 
 Affinity is a platform designed for people to connect with others of similar intellectual levels. This repository contains the full stack of the project, including the frontend, backend, AI chat server, real chat server, Rust server, machine learning model for AI chat, and socket implementations for real-time communication and WebRTC.
 
+Hosted Website : [http://ec2-13-126-149-80.ap-south-1.compute.amazonaws.com:5173/]
+
 ## Project Structure
 
 The repository is organized into the following main folders:

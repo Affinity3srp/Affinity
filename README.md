@@ -19,6 +19,17 @@ The repository is organized into the following main folders:
 6. **Socket For RealChat**
 7. **Socket for WebRTC**
 
+8. ### Architecture Diagrams
+
+#### Backend Deployment
+
+
+
+
+#### EC2-4 Setup
+
+
+
 ### 1. Client Vite React
 
 The client folder contains the frontend code built using React and Vite. The client is responsible for rendering the user interface and handling user interactions. Key features include:
